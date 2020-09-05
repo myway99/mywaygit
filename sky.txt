@@ -5,3 +5,5 @@ bird 2
 bird 3
 
 mydev1 bird 1
+
+currency job 1
