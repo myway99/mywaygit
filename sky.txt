@@ -1,3 +1,4 @@
+begin：
 
 bird 1
 bird 2
