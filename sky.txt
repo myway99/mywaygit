@@ -1,5 +1,0 @@
-
-bird 1
-bird 2
-
-bird 3
